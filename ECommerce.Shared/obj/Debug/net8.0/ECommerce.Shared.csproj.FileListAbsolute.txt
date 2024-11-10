@@ -1,0 +1,13 @@
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.deps.json
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.dll
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.pdb
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.csproj.AssemblyReference.cache
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfo.cs
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.dll
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\refint\ECommerce.Shared.dll
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.pdb
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\obj\Debug\net8.0\ref\ECommerce.Shared.dll
+C:\Users\BS810\RiderProjects\RabbitMq-Demo\ECommerce\ECommerce.Shared\bin\Debug\net8.0\appsettings.json
